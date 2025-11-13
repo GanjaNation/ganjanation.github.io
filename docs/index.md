@@ -1,15 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>GanjaNation Documentation</title>
+  </head>
+  <body>
+    <h1>GanjaNation Documentation</h1>
 
----
-title: GanjaNation Documentation
----
+    <p>Welcome to the GanjaNation documentation space.</p>
 
-# GanjaNation Documentation
+    <p>
+      This site collects working documents, strategies, and grant materials
+      for GanjaNation and related projects.
+    </p>
 
-Welcome to the GanjaNation documentation space.
-
-This site collects working documents, strategies, and grant materials
-for GanjaNation and related projects.
-
-## Current Projects
-
-- [EV Shuttle Grant Package — Grass Valley Farm](grants/)
+    <h2>Current Projects</h2>
+    <ul>
+      <li>
+        <a href="grants/">EV Shuttle Grant Package — Grass Valley Farm</a>
+      </li>
+    </ul>
+  </body>
+</html>
