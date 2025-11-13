@@ -1,24 +1,29 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>GanjaNation Documentation</title>
-  </head>
-  <body>
-    <h1>GanjaNation Documentation</h1>
+---
+title: GanjaNation Documentation
+---
 
-    <p>Welcome to the GanjaNation documentation space.</p>
+# GanjaNation Documentation
 
-    <p>
-      This site collects working documents, strategies, and grant materials
-      for GanjaNation and related projects.
-    </p>
+Welcome to the GanjaNation docs space.
 
-    <h2>Current Projects</h2>
-    <ul>
-      <li>
-        <a href="grants/">EV Shuttle Grant Package — Grass Valley Farm</a>
-      </li>
-    </ul>
-  </body>
-</html>
+This site collects working documents, strategies, and grant materials
+for the GanjaNation ecosystem.
+
+---
+
+## Current Projects
+
+### EV Shuttle Grant Package — Grass Valley Farm
+
+An electric shuttle project connecting the Grass Valley farm to
+Sacramento International Airport (SMF), supporting:
+
+- Rural mobility and access  
+- Agritourism and farm-to-table experiences  
+- Clean, zero-emission transportation  
+
+➡️ [Open the EV Shuttle Grant docs](grants/)
+
+---
+
+More sections and projects will be added here as they come online.
