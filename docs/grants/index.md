@@ -1,15 +1,14 @@
-
 ---
-title: GanjaNation Documentation
+title: Grants
 ---
 
-# GanjaNation Documentation
+# Grants
 
-Welcome to the GanjaNation documentation space.
+This section contains active and in-progress grant materials.
 
-This site collects working documents, strategies, and grant materials
-for GanjaNation and related projects.
+## EV Shuttle Project — Grass Valley Farm
 
-## Current Projects
+- [EV Shuttle Grant Strategy](./ev_shuttle_grant_strategy.md)
+- [Master Grant Narrative](./master_grant_narrative.md)
 
-- [EV Shuttle Grant Package — Grass Valley Farm](grants/)
+More documents (budget, tourism version, LFPP version, etc.) will be added as they are completed.
